@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    background-image: url(/pexels-robinstickel-70497.jpg);
+}
+.work{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    transition: all 1s;
+}
+img:hover{
+    transform: scale(2.2);
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+    border-bottom: 2px solid black;
+    border-right: 2px solid yellow;
+    width: 400px;
+    text-align: center;
+}
