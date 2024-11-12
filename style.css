@@ -1,0 +1,65 @@
+h1{
+    color: rgb(20, 104, 20) !important;
+    text-align: center;
+    font-weight: bolder;
+}
+h1,h2,p{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.fox {
+    font-style: italic;
+    font-size: bold;
+}
+.log{
+    font-size: bold;
+    color: black;
+}
+body {
+    background-image: url(/pexels-mccutcheon-3779937.jpg);
+    padding: 20px;
+}
+
+.netflix {
+    background-color: #fff;
+    width: 80%;
+    max-width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+hr {
+    height: 2px;
+    background-color: green;
+}
+.kc{
+    font-style: italic;
+   color: rgb(255, 127, 191); 
+}
+.bot{
+ font-style: oblique; 
+ color: lightskyblue;  
+}
+.bee{
+    width: 50%;
+    height: 10rem;
+    margin-left: 8rem;
+}
+.work{
+    color: red;
+}
+ footer button a{
+    text-decoration: none;
+     padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-size: 20px;
+    font-weight: bolder;
+    color: red;
+
+}
